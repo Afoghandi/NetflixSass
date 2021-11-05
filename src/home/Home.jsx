@@ -11,6 +11,13 @@ const Home = () => {
 			<Feature />
 			<List />
 			<List />
+			<List />
+			<List />
+			<List />
+			<List />
+			<List />
+			<List />
+			<List />
 		</div>
 	);
 };
